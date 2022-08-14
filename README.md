@@ -58,54 +58,30 @@
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/111240739/184556799-e06360ea-ff15-41bd-a2fe-fb611f2597c8.png)
 
+### Designed on **The Layout Editor** and verified via **Calibre** for Design Rule Checking (DRC) and Layout Versus Schematic (LVS) by **Mentor Graphics - Siemens**
 
+#### 1. Inverter Logic Gate Layout
 
+![Screenshot (28)](https://user-images.githubusercontent.com/111240739/184557303-13befd18-7315-46fe-9ab6-d84256c27d85.png)
 
+![Screenshot (29)](https://user-images.githubusercontent.com/111240739/184557316-263abccf-2683-43bc-9e38-444fc2d90652.png)
 
+#### 2. NAND Logic Gate Layout
 
+![Screenshot (40)](https://user-images.githubusercontent.com/111240739/184557369-0d07baa4-8818-46db-a61e-43a992e7d22f.png)
 
+![Screenshot (41)](https://user-images.githubusercontent.com/111240739/184557373-0d13bf1c-f937-4e3b-bb7d-c66c763a3977.png)
 
+#### 3. NOR Logic Gate Layout
 
+![Screenshot (52)](https://user-images.githubusercontent.com/111240739/184557388-57a45ef7-e79e-45bd-aa55-bc484f0c6526.png)
 
+![Screenshot (53)](https://user-images.githubusercontent.com/111240739/184557389-e4a19230-3755-4ef6-add9-27158b000a7d.png)
 
+#### 4. XOR Logic Gate Layout
 
+![Screenshot (63)](https://user-images.githubusercontent.com/111240739/184557396-5fed0d97-99e2-4b21-a5a8-e4e27809daa4.png)
 
+#### 5. Full Adder Layout
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot (70)](https://user-images.githubusercontent.com/111240739/184557411-9000e777-7ea0-4889-a262-b5ecc8782c68.png)
