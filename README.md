@@ -1,6 +1,6 @@
 ## Mentor Graphics | Siemens | Schematic | Layout | Calibre - EEET2475 Advanced Digital Design 1
 
-### Designed and simulated on The Schematic Editor by Mentor Graphics - Siemens
+### Designed and simulated on **The Schematic Editor** by **Mentor Graphics - Siemens**
 
 #### 1. Inverter Logic Gate Schematic with Test Bench
 
